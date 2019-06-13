@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/buffer.iml" filepath="$PROJECT_DIR$/buffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../center/center.iml" filepath="$PROJECT_DIR$/../center/center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kcp/kcp-netty (1) (com.akoo).iml" filepath="$PROJECT_DIR$/../kcp/kcp-netty (1) (com.akoo).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kcp/kcp-netty.iml" filepath="$PROJECT_DIR$/../kcp/kcp-netty.iml" />
+    </modules>
+  </component>
+</project>

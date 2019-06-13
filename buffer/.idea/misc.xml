@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../mina_buffer/pom.xml" />
+        <option value="$PROJECT_DIR$/../iobuffer/pom.xml" />
+        <option value="$PROJECT_DIR$/../kcp/pom.xml" />
+        <option value="$PROJECT_DIR$/../center/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="D:/软件安装/kcp-netty-master/kcp-example/pom.xml" />
+        <option value="D:/软件安装/kcp-netty-master/kcp-netty/pom.xml" />
+        <option value="D:/软件安装/kcp-netty-master/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$/../..">
+          <value>
+            <SvnBranchConfiguration />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="svn://192.168.2.88/dev/game001/trunk/server/cn/buffer" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../conc">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="svn://192.168.2.88/dev/game001/trunk/server/cn/conc" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="svn://192.168.2.88/dev/game001/trunk/server/cn/conc" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exe2lua">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="svn://192.168.2.88/dev/game001/trunk/server/cn/exe2lua" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="svn://192.168.2.88/dev/game001/trunk/server/cn/exe2lua" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../gateway">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="svn://192.168.2.88/dev/game001/trunk/server/cn/gateway" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="svn://192.168.2.88/dev/game001/trunk/server/cn/gateway" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../log">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="svn://192.168.2.88/dev/game001/trunk/server/cn/log" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="svn://192.168.2.88/dev/game001/trunk/server/cn/log" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../utils">
+          <value>
+            <SvnBranchConfiguration />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

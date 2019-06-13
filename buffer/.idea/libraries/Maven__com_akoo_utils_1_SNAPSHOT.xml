@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.akoo:utils:1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akoo/utils/1-SNAPSHOT/utils-1-20181122.025113-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akoo/utils/1-SNAPSHOT/utils-1-20181122.025113-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akoo/utils/1-SNAPSHOT/utils-1-20181122.025113-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

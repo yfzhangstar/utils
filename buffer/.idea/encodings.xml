@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../conc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../exe2lua" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../kcp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../utils" charset="UTF-8" />
+    <file url="file://D:/软件安装/kcp-netty-master" charset="UTF-8" />
+    <file url="file://D:/软件安装/kcp-netty-master/kcp-example" charset="UTF-8" />
+    <file url="file://D:/软件安装/kcp-netty-master/kcp-netty" charset="UTF-8" />
+  </component>
+</project>

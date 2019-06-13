@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.cellsgame:buffer:0.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.6.0/.m2/com/cellsgame/buffer/0.0.2-SNAPSHOT/buffer-0.0.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/buffer-0.0.2-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://D:/apache-maven-3.6.0/.m2/com/cellsgame/buffer/0.0.2-SNAPSHOT/buffer-0.0.2-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/buffer-0.0.2-SNAPSHOT-sources.jar!/" />
+      <root url="jar://D:/apache-maven-3.6.0/.m2/com/cellsgame/buffer/0.0.2-SNAPSHOT/buffer-0.0.2-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

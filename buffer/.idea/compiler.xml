@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="buffer" />
+        <module name="center" />
+        <module name="iobuffer" />
+        <module name="kcp" />
+        <module name="kcp-netty" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="buffer" target="1.8" />
+      <module name="center" target="1.8" />
+      <module name="conc" target="1.8" />
+      <module name="exe2lua" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="iobuffer" target="1.8" />
+      <module name="kcp" target="1.8" />
+      <module name="kcp-netty" target="1.8" />
+      <module name="log_pom" target="1.5" />
+      <module name="utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

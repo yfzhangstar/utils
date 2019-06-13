@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.cellsgame:conc:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.2.2/m2/com/cellsgame/conc/0.0.1-SNAPSHOT/conc-0.0.1-20170718.131542-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.2.2/m2/com/cellsgame/conc/0.0.1-SNAPSHOT/conc-0.0.1-20170718.131542-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.2.2/m2/com/cellsgame/conc/0.0.1-SNAPSHOT/conc-0.0.1-20170718.131542-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

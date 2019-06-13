@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.cellsgame:mina_baffer:2.0.13-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cellsgame/mina_baffer/2.0.13-SNAPSHOT/mina_baffer-2.0.13-20161107.091149-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cellsgame/mina_baffer/2.0.13-SNAPSHOT/mina_baffer-2.0.13-20161107.091149-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cellsgame/mina_baffer/2.0.13-SNAPSHOT/mina_baffer-2.0.13-20161107.091149-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
